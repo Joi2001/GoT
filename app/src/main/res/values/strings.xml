@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoTCharacters</string>
+    <string name="hello_world">, Welcome to GoT</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Your name</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="user_name"></string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_character_list">CharacterListActivity</string>
+</resources>
